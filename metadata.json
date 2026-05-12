@@ -1,0 +1,5 @@
+{
+  "name": "Postgraduate Research Management System",
+  "description": "A comprehensive system to track a postgraduate research student's journey. This version implements Role-Based Access Control (RBAC) for Student, Supervisor, Admin, HOD, and Examiner roles, and features personalized dashboards tailored to each role's needs.",
+  "requestFramePermissions": []
+}
